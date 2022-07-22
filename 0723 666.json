@@ -1,7 +1,7 @@
 ﻿{
   "spider":"http://home.jundie.top:81/jar/top921.jar",
-  "drives": [{"server":"http://192.168.123.188@8081","userName":"admin","password":"admin","type":"webdav"}],
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://139.9.166.60/iptv/CR.txt"]}]}],  
+  "drives": [{"server":"http://192.168.3.10:8080/index.html","userName":"admin","password":"admin","type":"webdav"}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzEzOS45LjE2Ni42MC9pcHR2L0NSLnR4dA=="]}]}],  
   
   "sites":[
     {"key":"csp_Kunyu77","name":"🥇七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
