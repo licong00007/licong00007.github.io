@@ -1,6 +1,6 @@
 ﻿{
   "spider":"http://home.jundie.top:81/jar/top921.jar",
-  "drives": [{"server":"\\192.168.123.188@8081\DavWWWRoot","userName":"admin","password":"admin","type":"webdav"}],
+  "drives": [{"server":"\\192.168.123.188@8081","userName":"admin","password":"admin","type":"webdav"}],
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=CR&type=txt&ext=http://139.9.166.60/iptv/CR.txt"]}]}],  
   
   "sites":[
