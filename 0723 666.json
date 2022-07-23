@@ -1,6 +1,6 @@
 ﻿{
   "spider":"http://home.jundie.top:81/jar/top921.jar",
-  "drives": [{"server":"http://localhost:8080","userName":"admin","password":"admin","type":"webdav"}],
+  "drives": [{"server":"http://192.168.123.188:8081/dav/","userName":"admin","password":"admin","type":"webdav"}],
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzEzOS45LjE2Ni42MC9pcHR2L0NSLnR4dA=="]}]}],  
   
   "sites":[
