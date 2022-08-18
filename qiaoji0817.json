@@ -1,6 +1,5 @@
-﻿{
-	//不再更新jar包，挂一个删一个，且用且珍惜。
-	//微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
+﻿{ 
+	 
 	"spider": "clan://TVBox/全合集.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
@@ -19,7 +18,17 @@
 		"quickSearch": 1,
 		"searchable": 1,
 		"ext": ""
-	},{
+	},{"key": "csp_Yisou"    ,"name":"易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"288"},
+{"key": "csp_Gitcafe"    ,"name":"阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"288"},  
+{"key": "csp_AliPS"  ,"name":"阿里喵搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"288"},
+{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"28"},
+{"key": "555（SP）","name": "555（SP）","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "555（SP）","name": "555（SP）","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "在线直播（SP）","name": "在线直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+		  
+		  {
 	"key": "Lezhu_spider",
 	"name": "🐞乐猪影视",
 	"api": "csp_Lezhu",
