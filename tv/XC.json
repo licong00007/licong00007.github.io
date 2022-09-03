@@ -35,9 +35,9 @@
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
 {"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://tv/token.json"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://tv/token.json"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://tv/token.json"},
 
-	{
+{
   "米奇妙妙屋": "https://anime.mqmmw.ga",
   "小光盘": "https://alist.xiaoguanxiaocheng.life",
   "资源小站": "https://960303.xyz/",
@@ -45,7 +45,7 @@
   "帅盘": "https://hi.shuaipeng.wang",
   "轻弹浅唱": "https://g.xiang.lol",
   "嗨翻": "https://pan.hikerfans.com"
-}
+},
 
 {"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
